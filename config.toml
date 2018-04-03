@@ -51,19 +51,19 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Jun Yin"
-  role = "Research Fellow at NIH"
+  role = "Research Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "National Institutes of Health", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "IMG_4148_5.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jun.yin@nih.gov"
   address = "35 Convent Drive, Room 1B-1006, Bethesda, MD, 20875, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = " "
+  skype = " "
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
