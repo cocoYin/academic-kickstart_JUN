@@ -21,10 +21,10 @@ weight = 5
   institution = "Institute of Hydrobiology, Chinese Academy of Sciences "
   year = 2002
 
-[[education.courses]]
-  course = " "
-  institution = " "
-  year = 
+#[[education.courses]]
+#  course = " "
+#  institution = " "
+#  year = 
 
 [[education.courses]]
   course = "BSc in Biochemistry"
